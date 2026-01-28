@@ -68,9 +68,9 @@ Your program must use this week's featured objects:
 - `String`  
 
 
-#### Experimenting with other Objecs
+#### Experimenting with other Objects
 
-In addition to screating `Scanner` and `String` objects, your program must use one additional object, such as:
+In addition to creating `Scanner` and `String` objects, your program must use one additional object, such as:
 
 - `DecimalFormat`
 - `Random`

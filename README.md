@@ -32,10 +32,8 @@ This is a **group exercise** (pairs unless otherwise instructed).
 #### Requirements:
 - Both partners must contribute code  
 - There must be multiple commits  
-- Each partner must have at least one meaningful commit  
 - Commit messages should clearly describe what was added or changed  
 
-Failure to show collaboration will result in a reduced score.
 
 ---
 
